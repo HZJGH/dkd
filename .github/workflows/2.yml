@@ -23,5 +23,5 @@ jobs:
               env:
                 dkdurl: ${{ secrets.dkdurl2 }}
                 dkdbody: ${{ secrets.dkdbody2 }}
-                sckey: ${{ secrets.sckey2 }}
+                sckey: ${{ secrets.sckey }}
                 dkdhd: ${{ secrets.dkdhd2 }}
